@@ -1,0 +1,66 @@
+<mjml>
+  <mj-head>
+    <mj-title>My Cars</mj-title>
+    <mj-attributes>
+
+    </mj-attributes>
+  </mj-head>
+  <mj-body>
+    <!-- Компания -->
+    <mj-section background-color="#f0f0f0">
+      <mj-column>
+				<mj-text	
+									font-style="italic"
+									font-size="20px"
+									color="#626262">
+				My Company
+				</mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Лого Компании -->
+    <mj-section background-color="#f0f0f0"
+								background-url="http://1.bp.blogspot.com/-TPrfhxbYpDY/Uh3Refzk02I/AAAAAAAALw8/5sUJ0UUGYuw/s1600/New+York+in+The+1960's+-+70's+(2).jpg"
+								background-size="cover"	
+								background-repeat="no-repeat">
+
+			<mj-column width="400px">
+										
+										<mj-text align="center"
+										color="#fff"
+										font-size="40px"
+										font-family="Helvetica Neue">Slogan Here</mj-text>
+
+				<mj-button background-color="#F63A4D"
+									 href="#">
+				Promotion
+				</mj-button>
+
+			</mj-column>
+
+		</mj-section>
+    <!-- Введение текст -->
+    <mj-section background-color="#f0f0f0">
+			<mj-column width="400px">
+
+					<mj-text align="center"
+									 font-style="italic"
+									 font-size="20px"
+									 font-family="Helvetica Neue"
+									 color="#626262">My Awesome Text</mj-text>
+
+							<mj-text color="#525252">
+											Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin rutrum enim eget magna efficitur, eu semper augue semper. Aliquam erat volutpat. Cras id dui lectus.
+							</mj-text>
+
+							<mj-button background-color="#F45E43"
+									href="#">Learn More</mj-button>
+			</mj-column>	
+		</mj-section>
+    <!-- 2 колонки -->
+    <mj-section background-color="#f0f0f0"></mj-section>
+    <!-- Иконки -->
+    <mj-section background-color="#f0f0f0"></mj-section>
+    <!-- Соц.сети иконки -->
+    <mj-section background-color="#f0f0f0"></mj-section>
+  </mj-body>
+</mjml>
